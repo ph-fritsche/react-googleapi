@@ -1,3 +1,3 @@
+export type { gapiObject } from './gapi'
 export * from './GoogleApiProvider'
 export * from './useGoogleApi'
-export * from './gapiMock'
